@@ -1,0 +1,33 @@
+{
+  "name": "allmail-autosenders",
+  "version": "1.0.0",
+  "description": "Automate email sending tasks with intelligent auto-senders, saving time and effort in email communications.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bananacatsplit/allmail-autosenders"
+  },
+  "author": "bananacatsplit",
+  "license": "MIT",
+  "dependencies": {
+    "allmail-autosenders": "1.0.0",
+    "ipm-pro-for-allmail": "1.0.0",
+    "socket.io": "1.0.0",
+    "cors": "1.0.0",
+    "mongoose": "1.0.0",
+    "react-dom": "1.0.0",
+    "react": "1.0.0",
+    "sinon": "1.0.0",
+    "eslint": "1.0.0",
+    "ganache-cli": "1.0.0",
+    "underscore": "1.0.0",
+    "lodash": "1.0.0",
+    "react-redux": "1.0.0",
+    "jsonwebtoken": "1.0.0",
+    "redux": "1.0.0",
+    "dotenv": "1.0.0"
+  }
+}
